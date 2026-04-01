@@ -39,4 +39,3 @@ The project is built using the following professional tools and libraries:
 * **Evaluation:** Measured performance using **R-squared ($R^2$)**, **MAE**, and **RMSE** metrics.
 
 ---
-**This project was developed as part of the Capstone requirements at Tuwaiq Academy.**
