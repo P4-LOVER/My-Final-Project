@@ -1,17 +1,17 @@
-# مشروع تحليل بيانات كابستون - Capstone Data Analysis Project 📊
+Project Contents 📁
+01_cleaning.ipynb: Data cleaning stage, handling missing values and outliers.
 
-هذا المشروع يهدف إلى تحليل ومعالجة بيانات المساكن (Ames Housing) باستخدام مكتبات بايثون لتحليل البيانات وتعلم الآلة.
+02_features.ipynb: Feature engineering stage, including data transformation and encoding.
 
-## محتويات المشروع (Project Contents) 📁
+03_eda.ipynb: Exploratory Data Analysis (EDA) and data visualization.
 
-* **01_cleaning.ipynb**: مرحلة تنظيف البيانات ومعالجة القيم المفقودة.
-* **02_features.ipynb**: مرحلة استخراج المميزات (Feature Engineering) وتحويل البيانات.
-* **03_eda.ipynb**: مرحلة التحليل الاستكشافي للبيانات والرسم البياني.
-* **data/**: يحتوي على ملفات البيانات المستخدمة (الخام والمعالجة).
-* **report.pdf**: تقرير مفصل يوضح النتائج النهائية والاستنتاجات.
+data/: Directory containing the datasets (Raw and Processed).
 
-## الأدوات المستخدمة (Tech Stack) 🛠️
+report.pdf: A detailed report outlining the final findings and conclusions.
 
-* **Python** (NumPy, Pandas, Matplotlib, Seaborn)
-* **Jupyter Notebook**
-* **Git & GitHub**
+Tech Stack 🛠️
+Python (NumPy, Pandas, Matplotlib, Seaborn)
+
+Jupyter Notebook
+
+Git & GitHub
