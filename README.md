@@ -10,14 +10,18 @@ This project focuses on the comprehensive analysis, processing, and predictive m
 
 ## 📂 Project Structure
 
-| File / Folder | Description |
+The repository is organized to follow the data science lifecycle sequentially. All data files and notebooks are located in the root directory.
+
+| File | Description |
 | :--- | :--- |
 | 🛠️ **01_cleaning.ipynb** | **Data Cleaning:** Handling missing values, outliers, and data types. |
 | 🏗️ **02_features.ipynb** | **Feature Engineering:** Transformation, encoding, and feature selection. |
 | 📊 **03_eda.ipynb** | **Exploratory Data Analysis (EDA):** Deep-dive visualizations and correlations. |
-| 🤖 **04_modeling.ipynb** | **Machine Learning:** Building, training, and evaluating the Linear Regression model. |
-| 📁 **data/** | Contains the datasets (both **Raw** and **Processed**). |
-| 📄 **report.pdf** | Final technical report with findings, conclusions, and insights. |
+| 🤖 **04_modeling.ipynb** | **Machine Learning:** Building, training, and evaluating the predictive models. |
+| 📄 **AmesHousing (1).csv** | The original raw dataset. |
+| 📄 **Ames_Housing_Cleaned.csv** | The processed dataset generated after cleaning. |
+| 🎓 **Capstone_Report.pdf** | Final technical report with findings and insights. |
+| 📜 **requirements.txt** | Python dependencies required to run this project. |
 
 ---
 
@@ -34,8 +38,8 @@ The project is built using the following professional tools and libraries:
 ---
 
 ## 📈 Key Results
-* **Preprocessing:** Successfully handled categorical variables using One-Hot Encoding.
-* **Modeling:** Implemented a Linear Regression model to predict house prices.
+* **Preprocessing:** Successfully handled categorical variables using One-Hot Encoding and addressed missing values.
+* **Modeling:** Implemented regression models to predict house prices based on physical attributes.
 * **Evaluation:** Measured performance using **R-squared ($R^2$)**, **MAE**, and **RMSE** metrics.
 
 ---
